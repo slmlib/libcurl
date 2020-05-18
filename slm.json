@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "curl": "curl/include/curl"
+    },
+    "binaries": {
+        "unix": {
+            "libcurl.so": "build/lib/libcurl.so"
+        }
+    },
+    "build": "./build.sh"
+}
